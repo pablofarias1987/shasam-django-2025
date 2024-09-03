@@ -14,6 +14,7 @@ function App() {
           <Route path="*" element={<Error404/>}/>
 
           <Route exact path='/' element={<Home/>}/>
+
           </Routes>
           </Router>
     </Provider>

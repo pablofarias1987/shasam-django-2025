@@ -3,7 +3,7 @@ import Layout from "../../hocs/Layout"
 const Error404 = () => {
     return(
         <Layout>
-            Error404
+            Error404..
         </Layout>
     )
 }
